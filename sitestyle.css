@@ -1,0 +1,104 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+/*Estas modificaciones para la página como tal cambian el padding a 0px y el margin a 0px*/
+html{
+    background-color: darkgoldenrod;
+}
+/*Esta modificación para el elemento html cambia el background-color a darkgoldenrod*/
+h1 {
+    text-align: center;
+    background-color: navy;
+    color: lightgreen;
+    padding: 30px;
+}
+/*Estas modificaciones para el elemento h1 cambian el text-align a center, el background-color a navy, el color de texto a lightgreen y el padding a 30px*/
+.logo{
+    float: left;
+    width: 7%;
+    height: 20%;
+    border-radius: 50%
+}
+/*Estas modificaciones para la clase logo cambian el float a left, el width a 7%, el height a 20% y el border-radius a 50%*/
+nav ul {
+    background-color: darkgoldenrod;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+/*Estas modificaciones para los elementos ul contenidos en el nav cambian el background-color a darkgoldenrod, el width a 100%, el list-style-type a none y el text-align a center*/
+nav li{
+    display: inline-flex;
+}
+/*Esta modificación para los elementos li contenidos adentro del nav cambia el display a inline-flex*/
+nav a{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    width: 150px;
+}
+/*Estas modificaciones para los elementos a contenidos adentro del nav cambian el font-weight a bold, el text-decoration a none, el color a black, el padding a 10px y el width a 150px*/
+nav li:hover{
+    background-color: purple;
+}
+/*Esta modificación hace que cuando el cursor este arriba de uno de los elementos li del nav el background-color de estos cambie a purple */
+.foto {
+    margin-left: 50px;
+    width: 250px;
+    height: 250px;
+    border-radius: 30%;
+    object-fit: cover;
+}
+/*Estas modificaciones para la clase foto cambian el margin-left a 50px, el width a 250px, el height a 250px, el border-radius a 30% y el object-fit a cover*/
+figcaption{
+    text-align: center;
+    padding-left: 45px;
+    padding-top: 5px;
+}
+/*Estas modificaciones para el elemento figcaption cambian el text-align a center, el padding-left a 45px y el padding-top a 5 px*/
+.contenido {
+    color: lightgreen;
+    background-color: black;
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+/*Estas modificaciones para la clase contenido cambian el color de texto a lightgreen, el background-color a black, el display a flex, el margin-left a 40px y el margin-right a 40px*/
+.articulos {
+width: 100%;
+}
+/*Esta modificación le da un width de 100% a la clase articulos*/
+.secciones {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+/*Estas modificaciones para la clase secciones cambian el display a flex, align-items a center y el padding a 50px*/
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: navy;
+    color: lightgreen;
+    margin-top: 40px
+}
+/*Estas modificaciones para el footer cambian el width a 100%, el height a 200px, el background-color a navy, el color del texto a lightgreen y el margin-top a 40px*/
+footer p {
+    text-align: center;
+    padding: 10px
+}
+/*Estas modificaciones para los elementos p del footer cambian el text-align a center y el padding a 10px*/
+a:link {
+    color: darkgoldenrod;
+}
+/*Esta modificación cambia el color de los emails*/
+p a{
+    color: darkgoldenrod;
+}
+/*Esta modificación cambia el color de los enlaces*/
+.motto{
+    padding-left: 110px;
+    font-size: 25px;
+}
+/*Estas modificaciones para la clase motto cambian el padding-left a 110px y el font-size a 25px*/
