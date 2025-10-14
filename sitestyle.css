@@ -97,6 +97,10 @@ p a{
     color: darkgoldenrod;
 }
 /*Esta modificación cambia el color de los enlaces*/
+li a{
+    color: black;
+}
+/*Esta modificación cambia el color de los enlaces del navegador*/
 .motto{
     padding-left: 110px;
     font-size: 25px;
