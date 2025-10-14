@@ -89,15 +89,13 @@ footer p {
     padding: 10px
 }
 /*Estas modificaciones para los elementos p del footer cambian el text-align a center y el padding a 10px*/
-a:link {
-    color: darkgoldenrod;
-}
+
 /*Esta modificación cambia el color de los emails*/
 p a{
     color: darkgoldenrod;
 }
 /*Esta modificación cambia el color de los enlaces*/
-a{
+{
     color: black;
 }
 /*Esta modificación cambia el color de los enlaces del navegador*/
