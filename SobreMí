@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>ProyectoFinal</title>
+        <link href="sitestyle.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        <div><img class="logo" src="SiteImage/Black%20and%20White%20Circular%20Art%20&%20Design%20Logo_20251005_230214_0000.png" alt="Logo de website."></div>
+         <h1>Library of Prospero</h1>
+        <!--Esta sección es el header o banner del website. Contiene el nombre y logo de esta.-->
+        <nav>
+            <ul>
+                <li><a href="Index.html">Inicio</a> </li>
+                <li><a href="SobreM%C3%AD.html">Sobre Mí</a> </li>
+                <li><a href="">Contactame</a> </li>
+                <li><a href="">Lore</a> </li>
+                <li><a href="">Catálogo</a> </li>
+            </ul>
+        </nav>
+        <!--Esta sección es el menú de navegación del website. Contiene los nombres de todas las páginas.-->
+        <div class="contenido">
+           <!--Este div se utiliza para clasificar todo lo que parte de la clase "contenido".-->
+            <div class="articulos">
+               <!--Este div se utiliza para clasificar todo lo que es parte de la clase "articulos".-->
+                <div class="secciones">
+                    <!--Este div se utiliza para clasificar todo lo que es parte de la clase "secciones".-->
+                    <div>
+                    <h2>¿Quien Soy?</h2>
+                   <p>¡Hola! Mi nombre es Jeamdel I. Rosado Vega, tengo 19 años y vivo en la isla de Puerto Rico. Me gusta mucho "Warhammer 40k", especialmente la facción de los Mil Hijos (aunque tengo otros favoritos, como los "Ultramarines" y
+                    los "Sons of Horus"). Estoy estudiando IT, por lo que decidí hacer este website para mi proyecto final del curso de Diseño de Páginas Web. Espero que encuentren el contenido de este website interesante y que, tal vez, decidan aprender
+                    más sobre esta asombrosa facción.</p>
+                    </div>
+                    <figure>
+                    <div><img class="foto" src="SiteImage/20240722_145242%20cropped.jpg" alt="Yo"></div>
+                    <figcaption>Mi foto.</figcaption>
+                    </figure>
+                </div>
+                <!--Esta sección es un párrafo de texto. Además, contiene una imagen relevante al tema y un figcaption para esta.-->
+                <div class="secciones">
+                    <div>
+                    <h2>Motivación</h2>
+                    <p>Mi mayor motivación por crear este website es mi pasión por la franquicia de "Warhammer", especialmente los Mil Hijos. Ellos son una de mis facciones favoritas y cuando vi la oportunidad de hablar sobre ellos, la tomé. Además, como
+                    colecciono las figuras de acción hechas por "JoyToy", sentí que era una buena idea formar un catálogo de todas las figuras hechas por ellos de los Mil Hijos, para que así otros fanáticos puedan ver qué hay disponible en el mercado.</p>
+                    </div>
+                    <figure>
+                    <div><img class="foto" src="SiteImage/41c4e688c087a124e11cc15a6b2039a7.jpg" alt="mago"></div>
+                    <figcaption>Mago de los Mil Hijos.</figcaption>
+                    </figure>
+                </div>
+                 <!--Esta sección es un párrafo de texto. Además, contiene una imagen relevante al tema y un figcaption para esta.-->
+                  <div class="secciones">
+                    <div>
+                    <h2>Información Adicional</h2>
+                    <p><a href="https://wh40k.lexicanum.com/wiki/Thousand_Sons">Lexicanum.com</a></p>
+                    </div>
+                </div>
+                 <!--Esta sección es para enlaces de información adicional.-->
+            </div>
+        </div>
+        <footer>
+        <div><img class="logo" src="SiteImage/Black%20and%20White%20Circular%20Art%20&%20Design%20Logo_20251005_230214_0000.png" alt="Logo de website."></div>
+        <p>Library of Prospero &copy;2025</p>
+        <p>787-949-4504</p>
+        <p><a href= "mailto:jrosado612@live.edpuniversity.edu" >jrosado612@live.edpuniversity.edu</a></p>
+        <p class="motto">Y recuerden hermanos: "ALL IS DUST!"
+        </footer>
+         <!--Este footer contiene el logo del website, el nombre y copyright de esta, mi número de teléfono, mi email y un pequeño mensaje con el grito de guerra de la facción.-->
+    </body>
+</html>
