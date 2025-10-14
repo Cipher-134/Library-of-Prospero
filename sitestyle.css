@@ -97,7 +97,7 @@ p a{
     color: darkgoldenrod;
 }
 /*Esta modificación cambia el color de los enlaces*/
-nav a{
+nav ol li a{
     color: black;
 }
 /*Esta modificación cambia el color de los enlaces del navegador*/
