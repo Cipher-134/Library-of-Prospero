@@ -11,7 +11,7 @@
         <!--Esta sección es el header o banner del website. Contiene el nombre y logo de esta.-->
         <nav>
             <ul>
-                <li><a href="Index.html">Inicio</a> </li>
+                <li><a href="index.html">Inicio</a> </li>
                 <li><a href="SobreM%C3%AD.html">Sobre Mí</a> </li>
                 <li><a href="">Contactame</a> </li>
                 <li><a href="">Lore</a> </li>
