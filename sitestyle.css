@@ -89,16 +89,10 @@ footer p {
     padding: 10px
 }
 /*Estas modificaciones para los elementos p del footer cambian el text-align a center y el padding a 10px*/
-
-/*Esta modificación cambia el color de los emails*/
 p a{
     color: darkgoldenrod;
 }
 /*Esta modificación cambia el color de los enlaces*/
-{
-    color: black;
-}
-/*Esta modificación cambia el color de los enlaces del navegador*/
 .motto{
     padding-left: 110px;
     font-size: 25px;
